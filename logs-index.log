@@ -1,0 +1,18 @@
+dev 04:02:32.12 INFO Consulta completada em 14.26 segundos. Resultados: 2285922 registros.
+dev 04:02:37.14 INFO Consulta completada em 0.01 segundos. Resultados: 10 registros.
+dev 04:02:46.43 INFO Consulta completada em 0.04 segundos. Resultados: 10 registros.
+prod 04:03:08.60 INFO Consulta completada em 3.28 segundos. Resultados: 10 registros.
+prod 04:16:48.89 INFO Consulta completada em 24.68 segundos. Resultados: 2264578 registros.
+prod 04:16:49.08 INFO Consulta completada em 0.2 segundos. Resultados: 10 registros.
+prod 04:17:22.84 INFO Consulta completada em 3.25 segundos. Resultados: 10 registros.
+prod 04:17:32.54 INFO Consulta completada em 3.3 segundos. Resultados: 10 registros.
+prod 04:24:15.62 INFO Consulta completada em 26.68 segundos. Resultados: 2264578 registros.
+prod 04:24:20.85 INFO Consulta completada em 0.22 segundos. Resultados: 10 registros.
+prod 08:55:29.63 INFO Envio do pacote - Consulta sem limit
+prod 08:55:29.63 INFO Início do processamento pelo servidor
+prod 08:57:14.12 INFO Envio do pacote - Consulta sem limit
+prod 08:57:14.12 INFO Início do processamento pelo servidor
+prod 08:57:41.04 INFO Consulta completada em 26.92 segundos. Resultados: 2264578 registros.
+prod 08:57:46.04 INFO Envio do pacote - Consulta com limit
+prod 08:57:46.05 INFO Início do processamento pelo servidor
+prod 08:57:46.29 INFO Consulta completada em 0.24 segundos. Resultados: 10 registros.
