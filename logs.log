@@ -1,0 +1,29 @@
+dev 01:27:54.48 INFO Planning Time: 0.935 ms
+dev 01:27:54.48 INFO Execution Time: 0.127 ms
+dev 01:27:54.48 INFO Consulta completada em 0.06 segundos. Resultados: 10 registros.
+dev 01:27:54.93 INFO Planning Time: 0.016 ms
+dev 01:27:54.93 INFO Execution Time: 449.274 ms
+dev 01:28:08.21 INFO Consulta completada em 13.73 segundos. Resultados: 2830552 registros.
+dev 01:28:08.69 INFO Planning Time: 1.235 ms
+dev 01:28:08.69 INFO Execution Time: 474.093 ms
+dev 01:28:36.36 INFO Consulta completada em 28.15 segundos. Resultados: 2830552 registros.
+
+prod 01:29:21.88 INFO Planning Time: 0.228 ms
+prod 01:29:21.88 INFO Execution Time: 0.052 ms
+prod 01:29:22.08 INFO Consulta completada em 3.59 segundos. Resultados: 10 registros.
+prod 01:29:28.96 INFO Planning Time: 0.050 ms
+prod 01:29:28.96 INFO Execution Time: 6669.788 ms
+prod 01:29:53.27 INFO Consulta completada em 24.29 segundos. Resultados: 2830018 registros.
+dev 01:28:08.21 INFO Consulta completada em 13.73 segundos. Resultados: 2830552 registros.
+24.29 - 13.73 (processo do lado do cliente) - 6.69 (execução) - 6.69 = 3.87 segundos (tempo de tráfego de rede)
+minha internet é de 300mb o que daria 40mb/s ou 40 * 4 = 180mb
+
+
+prod 01:29:59.71 INFO Planning Time: 0.108 ms
+prod 01:29:59.71 INFO Execution Time: 6235.082 ms
+prod 01:30:45.70 INFO Consulta completada em 43.27 segundos. Resultados: 2830018 registros.
+dev 01:28:36.36 INFO Consulta completada em 28.15 segundos. Resultados: 2830552 registros.
+
+43.27 - 28.15 (processo do lado do cliente) - 6.23 (execução) = 8.89 segundos (tempo de tráfego de rede)
+minha internet é de 300mb o que daria 40mb/s ou 40 * 9 = 360mb
+
